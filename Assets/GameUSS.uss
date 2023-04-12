@@ -1,0 +1,11 @@
+.HUDText {
+    position: absolute;
+    -unity-font: none;
+    font-size: 20px;
+    top: -10px;
+    left: 1022px;
+    -unity-font-style: normal;
+    background-color: rgba(127, 127, 127, 0);
+    -unity-font-definition: url('project://database/Assets/Font/Hana%20SDF.asset?fileID=11400000&guid=109223266603c474c9a74c8732c02718&type=2#Hana SDF');
+    color: rgb(255, 255, 255);
+}
